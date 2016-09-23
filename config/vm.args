@@ -1,0 +1,6 @@
+-sname crash_sampler
+
+-setcookie crash_sampler_cookie
+
++K true
++A30
